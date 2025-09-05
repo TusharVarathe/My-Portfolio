@@ -213,7 +213,7 @@ export default function App() {
       <SpotlightEffect />
       {/* --- Header --- */}
       <header className="fixed top-0 left-0 right-0 z-50 bg-white/80 dark:bg-slate-900/80 backdrop-blur-sm shadow-md shadow-slate-900/5 dark:shadow-slate-800/5">
-        <div className="container mx-auto px-4 sm:px-6 lg:px-8">
+        <div className="container mx-auto px-4 sm:px-8 lg:px-16">
           <div className="flex items-center justify-between h-16">
             <a href="#home" className="text-xl font-bold text-slate-800 dark:text-white">
               Tushar Varathe
