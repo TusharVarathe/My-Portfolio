@@ -208,7 +208,7 @@ export default function App() {
   );
 
   return (
-    <div className="bg-white dark:bg-slate-900 text-slate-700 dark:text-slate-300 font-sans relative">
+    <div className="bg-white dark:bg-slate-900 text-slate-700 dark:text-slate-300 font-sans relative px-2 sm:px-4 lg:px-8">
       <div className="absolute top-0 left-0 w-full h-full bg-[url('data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%3E%3Crect%20fill%3D%22%230f172a%22%20width%3D%22800%22%20height%3D%22800%22%2F%3E%3Cg%20fill-opacity%3D%220.4%22%3E%3Ccircle%20fill%3D%22%231e293b%22%20cx%3D%22400%22%20cy%3D%22400%22%20r%3D%22600%22%2F%3E%3Ccircle%20fill%3D%22%231e3a8a%22%20cx%3D%22400%22%20cy%3D%22400%22%20r%3D%22500%22%2F%3E%3Ccircle%20fill%3D%22%233b82f6%22%20cx%3D%22400%22%20cy%3D%22400%22%20r%3D%22300%22%2F%3E%3Ccircle%20fill%3D%22%236366f1%22%20cx%3D%22400%22%20cy%3D%22400%22%20r%3D%22200%22%2F%3E%3Ccircle%20fill%3D%22%238b5cf6%22%20cx%3D%22400%22%20cy%3D%22400%22%20r%3D%22100%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E')] bg-cover bg-no-repeat opacity-20 dark:opacity-50"></div>
       <SpotlightEffect />
       {/* --- Header --- */}
