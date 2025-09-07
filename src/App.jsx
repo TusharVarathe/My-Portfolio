@@ -272,7 +272,7 @@ export default function App() {
                   <a href="#projects" className="inline-flex items-center bg-gradient-to-r from-blue-500 to-purple-600 text-white font-semibold py-3 px-6 rounded-lg hover:from-blue-600 hover:to-purple-700 transition-all shadow-lg transform hover:scale-105">
                     <ChevronLeftIcon className="w-5 h-5 mr-2" /> View My Work <ChevronRightIcon className="w-5 h-5 ml-2" />
                   </a>
-                  <a href="https://drive.google.com/file/d/1URZE9WJ_Ll-bLzIP2uOfDlfghfjH6uam/view?usp=drive_link" target="_blank" rel="noopener noreferrer" className="inline-flex items-center bg-slate-200 dark:bg-slate-800 text-slate-800 dark:text-white font-semibold py-3 px-6 rounded-lg hover:bg-slate-300 dark:hover:bg-slate-700 transition-all shadow-lg transform hover:scale-105">
+                  <a href="https://drive.google.com/file/d/1wPMb92X5UsirF0KVeY3wrzJPMwtRU7IB/view?usp=drive_link" target="_blank" rel="noopener noreferrer" className="inline-flex items-center bg-slate-200 dark:bg-slate-800 text-slate-800 dark:text-white font-semibold py-3 px-6 rounded-lg hover:bg-slate-300 dark:hover:bg-slate-700 transition-all shadow-lg transform hover:scale-105">
                     Download Resume <ExternalLinkIcon className="w-5 h-5 ml-2" />
                   </a>
                 </div>
